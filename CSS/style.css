@@ -1,0 +1,163 @@
+.TopContainer {
+    background-color:#C9E4C5;
+   
+    margin: 0;
+    text-align:center;
+    position: relative;
+    padding-top: 100px;
+
+ 
+   
+   }
+   .BottomContainer{
+       background-color: #66BFBF;
+       height: 4cm;
+
+
+   }
+   .footer-link{
+       color: #11999E;
+      position: relative;
+       margin: 30px;
+       padding-top: 30px;
+       line-height: 2;
+       text-decoration: none;
+
+      
+      
+   }
+   .copyright{
+       color: #EAF6F6;
+      
+       
+      
+   }
+   h1{
+    margin-top: 50px auto 0 auto;
+    margin-left: 0px;
+    margin-bottom:0mm;
+    font-family:  'Sacramento', cursive;
+    font-size: 562.5%;
+    color: #66BFBF;
+
+    
+
+   }
+    
+
+    
+
+   body{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    color:#1e2221;
+    
+
+    
+   }
+   
+
+   .pro{
+       text-decoration:underline;
+       
+   }
+
+   .bottom-cloud {
+       position:absolute;
+
+   }
+   .top-cloud{
+      position: absolute;
+      margin-right:30px;
+      right: 300px;
+      top: 50px;
+   }
+   h3{
+       font-family:  'Montserrat', sans-serif;
+     
+       font-weight: bold;
+       color: #11999E;
+   }
+   h2{
+       color: #66BFBF;
+       margin: 0;
+   }
+   a{
+       color: #11999E;
+   }
+   .pro{
+       font-weight: normal;
+       
+   }
+   .programmer{
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-weight: bold;
+   }
+   .skill-row{
+       width: 70%;
+      margin: 10px auto 50px auto;
+      text-align: left;
+      line-height: 2;
+      position: relative;
+      
+   }
+   .skillsimage01{
+       width: 25%;
+       float: right;
+       margin-left: 30px;
+       
+       
+   }
+   .skillsimage02{
+       width: 25%;
+       float: left;
+       margin-right:  30px;
+      
+   }
+   .button {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    
+    font-family: Verdana;
+    font-size: 27px;
+    font-weight: 300;
+    padding: 10px;
+    background-color:#66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-family:  'Montserrat', sans-serif;
+
+ }
+ .contact-message{
+     width: 50%;
+     margin:auto;
+     line-height: 2;
+     margin: 40px auto 60px autos;
+ }
+
+ .btn{
+    color: #FFFFFF;
+    text-decoration: none;
+ }
+ hr{
+    border-color: #7d8181;
+        border-style: dotted none none;
+        height: 0px;
+        width: 20%;
+        border-width: 5px;
+ }
+ .MiddleContainer{
+     margin: 50px  auto 50px auto;
+ }
+ a:hover{
+     color: #335b81;
+ }
+ .btn:hover{
+     color: rgb(90, 122, 122);
+ }
